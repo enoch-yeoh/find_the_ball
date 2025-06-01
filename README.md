@@ -1,4 +1,7 @@
 # find_the_ball
+This is a simple game that I coded up with some basic knowledge but a lot of time spent with some code helpers.
+I believe right now, these AI tools can be used together daily just like someone in the office using Microsoft Word or Excel.
+
 How to Play:
 When you start the game, you'll see three cups numbered 1, 2, and 3.
 Press SPACE to hide the ball under a random cup.
