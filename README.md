@@ -1,5 +1,6 @@
 # find_the_ball
-This is a simple game that I coded up with some basic knowledge but a lot of time spent with some code helpers.
+This is a simple game that I coded up with some basic knowledge of Python.
+It took a long while but it was easier with some code helpers.
 I believe right now, these AI tools can be used together daily just like someone in the office using Microsoft Word or Excel.
 
 How to Play:
