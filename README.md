@@ -1,7 +1,7 @@
 # find_the_ball
 This is a simple game that I coded up with some basic knowledge of Python.
 https://www.geeksforgeeks.org/pygame-tutorial/
-It took a long while but it was easier with some code helpers.
+It took me some time but it was easier with some code helpers.
 I believe right now, these AI tools can be used together daily just like someone in the office using Microsoft Word or Excel.
 
 How to Play:
